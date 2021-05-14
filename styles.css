@@ -12,6 +12,7 @@
     fill:#93F9B9;
     position: relative;
     z-index: 0;
+    cursor: pointer;
 }
 
 .selected, .fixed{
