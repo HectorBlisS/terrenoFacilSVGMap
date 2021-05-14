@@ -1,0 +1,37 @@
+#svgMap {
+    width: 100%;
+    height: 100vh;
+}
+
+.st6 {
+    stroke: #000000;
+    stroke-miterlimit: 10;
+}
+
+.available {
+    fill:#93F9B9;
+    position: relative;
+    z-index: 0;
+}
+
+.selected, .fixed{
+    fill:#1D976C;
+    opacity:.8;
+    transform:translateY(-10px);
+    animation: pulse 1s infinite;
+    transition: all .3s;
+    position: relative;
+    z-index: 1;
+}
+
+
+@keyframes pulse {
+    0% { 
+        transform:translateY(0);
+     }
+    50% { 
+        transform:translateY(-10px);
+     }
+    100% { transform: translateY(0) ;
+    }
+}
