@@ -15,6 +15,13 @@
     cursor: pointer;
 }
 
+.sold {
+    fill:red;
+    position: relative;
+    z-index: 0;
+    cursor: pointer;
+}
+
 .selected, .fixed{
     fill:#1D976C;
     opacity:.8;
@@ -23,6 +30,79 @@
     transition: all .3s;
     position: relative;
     z-index: 1;
+}
+
+.card {
+    margin-right: 25px;
+    transition: all .4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: #fff;
+    width: 320px;
+    position: absolute;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0,0.1);
+    top:50px;
+    right: 50px;
+    padding: 16px 24px 24px;
+  }
+.card:hover {
+    box-shadow: 0px 30px 18px -8px rgba(0, 0, 0,0.1);
+    transform: scale(1.10, 1.10);
+  }
+
+.card .title{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: Avenir, 'Roboto Slab', serif;
+}
+
+.card .category{
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #868686;
+}
+
+.card .close{
+    width: 30px;
+    height: 30px;
+    background-color: #93F9B9;
+    border-radius: 50%;
+    position: absolute;
+    top:10px;
+    right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.extra {
+    overflow: hidden;
+}
+
+@media (max-width:760px){
+    .card{
+        width: 80vw;
+        height: auto;
+        margin:0;
+        border-radius: 0;
+        top:0;
+        right: 0;
+    }
+    .card:hover {
+        transform: scale(1, 1);
+    }
+    svg {
+        margin-top: 200px;
+    }
+}
+
+svg {
+    margin-right: 500px;
 }
 
 

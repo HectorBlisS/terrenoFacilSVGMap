@@ -1,584 +1,1942 @@
 [
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L2"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L9"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L10"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L11"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L12"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L13"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L14"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L15"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L16"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L17"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L18"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L19"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L20"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L21"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L22"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L23"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-24"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L1"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L2_1_"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L9"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L10"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L11"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L12"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L13"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L14"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L15"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L16"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L17"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L1"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L2"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L9"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L10"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L11"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L12"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L13"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L14"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M3-L15"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L1"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L2"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M4-L9"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L2"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L9"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L10"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L11"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L12"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L13"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L14"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L15"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L16"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L17"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L18"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L19"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L20"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L1"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L2"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L9"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L10"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L11"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L12"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L13"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L14"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L15"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L16"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L17"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L18"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L19"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L20"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L21"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L22"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L23"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M6-L24"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L1"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L2"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L9"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L10"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L11"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-12"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L13"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L14"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L15"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M7-L6_1_"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M8-L1"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M8-L2"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M8-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M8-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M8-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M8-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M8-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M8-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M9-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M9-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M9-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L2"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L3"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L4"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L5"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L6"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L7"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L8"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L9"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L10"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L11"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L12"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L13"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L14"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L15"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L16"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L17"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L18"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L19"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L20"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L21"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L22"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L23"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L24"
     },
     {
+        "status": "available",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L1"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L3"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L10"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L1"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L2"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L3"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L4"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L5"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L6"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L7"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L8"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L9"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L10"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L11"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L12"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L14"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L15"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L16"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L17"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L18"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L19"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M1-L1"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L18"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M2-L19"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M5-L1"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M9-L1"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M9-L2"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M9-L6"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M10-L1"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L2"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L4"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L5"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L6"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L7"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L8"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M11-L9"
     },
     {
+        "status": "",
+        "type": "Esquina",
+        "area": "120",
+        "creditPrice": "$130,000",
+        "downPayment": "$10,000",
+        "monthlyPayment": "60 de $2,000",
+        "cashPrice": "104,000",
         "id": "M12-L13"
     }
 ]
